@@ -6,7 +6,11 @@ this is my first repository
 #### heading4
 ##### heading5
 ###### heading6
-
 *this is italic*
 **this is bold**
 ***this is bold italic***
+
+1.fruits
+    1.mango
+    2.apples
+    3.bananas
