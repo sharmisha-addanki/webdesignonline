@@ -23,3 +23,8 @@ this is my first repository
 name | number
 -----|-------
 sharmisha|12345789000
+
+```python
+def cat():
+   print("hi")
+```
